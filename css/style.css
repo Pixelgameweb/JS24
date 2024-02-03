@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    text-align:  center;
+    text-align: left;
+    background-color: #b4abab;
+}
+
+.affairs{
+text-align: center ;
+background-color:  rgb(244,67,54);
+padding-bottom:25px;
+}
+
+.out{
+  text-align: center ;
+}
+
+.inp{
+  font-style: none;
+}
+
+.ad_btn{
+style: none;
+}
+.title_affairs{
+  color: white;
+}
